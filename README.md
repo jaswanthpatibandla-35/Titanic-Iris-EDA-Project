@@ -1,2 +1,2 @@
-# Titanic-Iris-EDA-Project
-Exploratory Data Analysis (EDA) project using Python, Pandas, Matplotlib, Seaborn, and Plotly on Titanic/Iris datasets
+# -Project-A-Exploratory-Data-Analysis-EDA-on-a-Titanic-or-Iris-dataset.
+Titanic EDA project for Horizon Intern
